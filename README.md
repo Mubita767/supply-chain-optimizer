@@ -4,7 +4,7 @@ End-to-end supply chain management system with inventory optimization, demand fo
 
 ## Author
 
-**Mupo Mubita** | Systems Architect
+**Mupo Mubita** | ML Engineer & Systems Architect
 - Email: mubitamupo@outlook.com
 - WhatsApp: +260760457622
 - GitHub: [@Mubita767](https://github.com/Mubita767)
